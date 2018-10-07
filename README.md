@@ -1,4 +1,4 @@
-# hackerJAV
+# hackerRank-day-7(30-days-of-code)
 
 https://www.hackerrank.com/challenges/30-review-loop/problem
 
